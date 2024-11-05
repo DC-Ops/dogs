@@ -1,4 +1,4 @@
-github.com/DC-Ops/gshep v0.0.0-20241103114635-6808d9d9e927 h1:1GPPbbRubsqTNxe/9rDGe0pludQvl3t9byLmq9Ij63Y=
-github.com/DC-Ops/gshep v0.0.0-20241103114635-6808d9d9e927/go.mod h1:91yH3pXqH47aXP412vVdOO2njjPgC+e6o/DV+KcS2AA=
-github.com/DC-Ops/puppy v0.0.0-20241103120248-8bb149fa8079 h1:Us8Rxe8+szJO19r1Zfybz/5CKYhFd9vqwp1wBJMDIaw=
-github.com/DC-Ops/puppy v0.0.0-20241103120248-8bb149fa8079/go.mod h1:h1I1cSu1Wk9iFpWhI4jsH741rWdcmrrfjUXX8704zy0=
+github.com/DC-Ops/gshep v1.0.0 h1:ZqGicyXmVFScTKrkgLuUpVawsPDr/t60IhzQo/NHAH8=
+github.com/DC-Ops/gshep v1.0.0/go.mod h1:91yH3pXqH47aXP412vVdOO2njjPgC+e6o/DV+KcS2AA=
+github.com/DC-Ops/puppy v1.2.1 h1:uZl59ZF+7qgkZHnSSoWZ9l9TIrXG6koYpquJJncvctM=
+github.com/DC-Ops/puppy v1.2.1/go.mod h1:HQN1UthfvdCwwYREj1EnX2hSzlSHCkpFTtBrNwtPC34=
